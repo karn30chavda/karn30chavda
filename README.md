@@ -10,25 +10,31 @@ While I’m at the beginning of my professional journey, I’ve built real-world
 I love building apps, learning new tools, and solving real-world problems with code.
 
 ---
+## 🛠️ Skills
 
-### 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React, Vite
-- **Backend**: Firebase, Supabase, Appwrite (learning)
-- **Design**: Figma, Canva
-- **Tools**: Git, GitHub, VS Code, Netlify
+### 🌐 Web Tech
+- HTML5, CSS3, JavaScript (ES6+), C/C++
 
+### ⚙️ Frontend Frameworks
+- React.js, Redux, Bootstrap, Tailwind CSS (optional), Flexbox, Grid
+
+### 🔙 Backend Services
+- Firebase, Supabase, Appwrite, REST APIs, Cloudinary
+
+### 💾 Tools
+- Git, GitHub, Netlify, Vercel, VS Code, Chrome DevTools
 ---
 
 ### 💼 My Projects (In Order of My Dev Journey)
 
 | # | Project Name | Tech Used | Description |
 |--|--------------|-----------|-------------|
-| 1️⃣ | **Designated Driver Service (DDS)** | HTML, CSS, JS | My final year college project - a platform to connect people with responsible drivers. |
-| 2️⃣ | **PWA Calculator** | JS, PWA APIs | A mobile-friendly calculator with offline support. |
-| 3️⃣ | **Tic Tac Win Game** | HTML, CSS, JS | A simple and fun tic-tac-toe game with clean UI. |
-| 4️⃣ | **NotesFlow** | React, Firebase | A sticky notes app with features like PIN lock, theme switch, profile pic, and more. |
-| 5️⃣ | **Portfolio Website** | React, Vite | My personal portfolio site to showcase my journey and work. |
-| 6️⃣ | **Blog App (Work in Progress)** | React, Appwrite | A modern blog platform in development with user auth and CMS features. |
+| 1 | **Designated Driver Service (DDS)** | HTML, CSS, JS | My final year college project - a platform to connect people with responsible drivers. |
+| 2 | **PWA Calculator** | JS, PWA APIs | A mobile-friendly calculator with offline support. |
+| 3 | **Tic Tac Win Game** | HTML, CSS, JS | A simple and fun tic-tac-toe game with clean UI. |
+| 4 | **NotesFlow** | React, Firebase | A sticky notes app with features like PIN lock, theme switch, profile pic, and more. |
+| 5 | **Portfolio Website** | React, Vite | My personal portfolio site to showcase my journey and work. |
+| 6 | **Blog App (Work in Progress)** | React, Appwrite | A modern blog platform in development with user auth and CMS features. |
 
 ---
 
@@ -41,18 +47,17 @@ I love building apps, learning new tools, and solving real-world problems with c
 
 ### 🎯 Goals for 2025
 - Build and deploy 3-4 full-stack apps
-- Master Git and GitHub workflows
 - Get an internship or junior dev role
 - Contribute to open source
+- Exporing to the Machine Language
 
 ---
 
 ### 📬 Connect With Me
 - 📧 Email: karanchavda543@gmail.com
 - 🔗 Portfolio: [karan-portfolio-website.netlify.app](https://karan-portfolio-website.netlify.app)
-- 🧑‍💻 GitHub: [@karn30chavda](https://github.com/karn30chavda)
-- 💼 LinkedIn: [linkedin.com/in/karanchavda300902]
-
+- 💼 LinkedIn: [@karanchavda300902](linkedin.com/in/karanchavda300902)
+- Open to internships, freelancing, or full-time roles. Let’s build something awesome together!
 ---
 
 ### 💡 Fun Quote
