@@ -32,7 +32,7 @@ I love building apps, learning new tools, and solving real-world problems with c
 | 1 | **Designated Driver Service (DDS)** | HTML, CSS, JS | My final year college project - a platform to connect people with responsible drivers. |
 | 2 | **PWA Calculator** | JS, PWA APIs | A mobile-friendly calculator with offline support. |
 | 3 | **Tic Tac Win Game** | HTML, CSS, JS | A simple and fun tic-tac-toe game with clean UI. |
-| 4 | **NotesFlow** | React, Firebase | A sticky notes app with features like PIN lock, theme switch, profile pic, and more. |
+| 4 | **NotesFlow** | HTML, CSS, JS, Firebase | A sticky notes app with features like PIN lock, theme switch, profile pic, and more. |
 | 5 | **Portfolio Website** | React, Vite | My personal portfolio site to showcase my journey and work. |
 | 6 | **Blog App (Work in Progress)** | React, Appwrite | A modern blog platform in development with user auth and CMS features. |
 
