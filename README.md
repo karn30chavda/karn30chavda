@@ -50,7 +50,7 @@ In-progress blog application with full CRUD and auth.
 - HTML5, CSS3, JavaScript (ES6+), C/C++
 
 ### ⚙️ Frontend Frameworks
-- React.js, Redux, Bootstrap, Tailwind CSS (optional), Flexbox, Grid
+- React.js, Redux, Bootstrap, Tailwind CSS, Flexbox, Grid
 
 ### 🔙 Backend Services
 - Firebase, Supabase, Appwrite, REST APIs, Cloudinary
