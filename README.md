@@ -1,72 +1,63 @@
-# 👋 Hey there, I'm Karan Chavda!
-
-I'm a self-motivated and passionate **Frontend Developer** currently exploring the world of full-stack development. I love building sleek UIs and connecting them with powerful backends using modern tools like React, Firebase, Supabase, and Appwrite.
-
----
-
-## 🛣️ My Developer Journey
-
-Here’s how I evolved, project by project:
-
-### 1️⃣ **Designated Driver Service (DDS)** – *Final Year Project*
-An online platform to connect people with designated drivers, ensuring safe late-night travel.
-- Built with HTML, CSS, and JS
-- Core focus: Forms, validation, and mobile-first design
-
-### 2️⃣ **PWA Calculator**
-A progressive web app calculator that works offline and installs like a native app.
-- Tech: Vanilla JS, HTML/CSS
-- PWA setup with service worker
-
-### 3️⃣ **Tic Tac Win Game**
-A simple fun game with win tracking, draw detection, and responsive layout.
-- Tech: JavaScript + CSS Grid
-- Highlights: DOM manipulation, game logic
-
-### 4️⃣ **NotesFlow**
-A sticky notes app with:
-- 🔐 Auth (Firebase)
-- 🎨 Dark/Light theme toggle
-- 🔎 Search/filter & PIN lock
-- ☁️ Cloudinary for image uploads
-
-### 5️⃣ **Developer Portfolio**
-My personal portfolio showcasing all my work and journey.
-- Built with: React + Vite
-- Deployed on: Netlify
-- Live: [karan-portfolio-website.netlify.app](https://karan-portfolio-website.netlify.app)
-
-### 6️⃣ **Current Project: Blog App**
-In-progress blog application with full CRUD and auth.
-- Frontend: React + Vite
-- Backend: Appwrite
-- Features: Auth, post creation, likes, filters, and more coming soon!
+<h1 align="center">Hi 👋, I'm Karan Chavda</h1>
+<h3 align="center">🚀 A passionate Web Developer & Frontend Enthusiast from India</h3>
 
 ---
 
-## 🛠️ Skills
+### 🧠 About Me
+I’m a self-motivated learner, currently focused on full-stack web development.  
+While I’m at the beginning of my professional journey, I’ve built real-world projects that showcase both frontend and backend integration using tools like **Firebase**, **Supabase**, and **Appwrite**.
 
-### 🌐 Web Tech
-- HTML5, CSS3, JavaScript (ES6+), C/C++
-
-### ⚙️ Frontend Frameworks
-- React.js, Redux, Bootstrap, Tailwind CSS, Flexbox, Grid
-
-### 🔙 Backend Services
-- Firebase, Supabase, Appwrite, REST APIs, Cloudinary
-
-### 💾 Tools
-- Git, GitHub, Netlify, Vercel, VS Code, Chrome DevTools
+I love building apps, learning new tools, and solving real-world problems with code.
 
 ---
 
-## 🔭 What I’m Working On
-- Building full-stack projects using **React + Appwrite/Supabase**
-- Preparing for **DSA + tech interviews**
-- Improving **communication + English fluency**
-- Staying consistent with GitHub commits 😎
+### 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React, Vite
+- **Backend**: Firebase, Supabase, Appwrite (learning)
+- **Design**: Figma, Canva
+- **Tools**: Git, GitHub, VS Code, Netlify
 
 ---
 
-## 📬 Connect With Me
-Open to internships, freelancing, or full-time roles. Let’s build something awesome together!
+### 💼 My Projects (In Order of My Dev Journey)
+
+| # | Project Name | Tech Used | Description |
+|--|--------------|-----------|-------------|
+| 1️⃣ | **Designated Driver Service (DDS)** | HTML, CSS, JS | My final year college project - a platform to connect people with responsible drivers. |
+| 2️⃣ | **PWA Calculator** | JS, PWA APIs | A mobile-friendly calculator with offline support. |
+| 3️⃣ | **Tic Tac Win Game** | HTML, CSS, JS | A simple and fun tic-tac-toe game with clean UI. |
+| 4️⃣ | **NotesFlow** | React, Firebase | A sticky notes app with features like PIN lock, theme switch, profile pic, and more. |
+| 5️⃣ | **Portfolio Website** | React, Vite | My personal portfolio site to showcase my journey and work. |
+| 6️⃣ | **Blog App (Work in Progress)** | React, Appwrite | A modern blog platform in development with user auth and CMS features. |
+
+---
+
+### 🌱 Currently Learning
+- Full-stack development using **React + Appwrite**
+- Advanced JavaScript Patterns
+- UI/UX design with **Figma**
+
+---
+
+### 🎯 Goals for 2025
+- Build and deploy 3-4 full-stack apps
+- Master Git and GitHub workflows
+- Get an internship or junior dev role
+- Contribute to open source
+
+---
+
+### 📬 Connect With Me
+- 📧 Email: karanchavda543@gmail.com
+- 🔗 Portfolio: [karan-portfolio-website.netlify.app](https://karan-portfolio-website.netlify.app)
+- 🧑‍💻 GitHub: [@karn30chavda](https://github.com/karn30chavda)
+- 💼 LinkedIn: [linkedin.com/in/karanchavda300902]
+
+---
+
+### 💡 Fun Quote
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+*Thanks for stopping by! Feel free to explore my work and connect 🚀*
