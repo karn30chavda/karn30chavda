@@ -16,11 +16,11 @@ I love building apps, learning new tools, and solving real-world problems with c
 - HTML5, CSS3, JavaScript (ES6+), C/C++
 
 ### ⚙️ Frontend Frameworks
-- React.js, Redux, Bootstrap, Tailwind CSS (optional), Flexbox, Grid
+- React.js, Redux, Bootstrap, Tailwind CSS, Flexbox, Grid
 
 ### 🔙 Backend Services
 - Firebase, Supabase, Appwrite, REST APIs, Cloudinary
-
+  
 ### 💾 Tools
 - Git, GitHub, Netlify, Vercel, VS Code, Chrome DevTools
 ---
@@ -40,7 +40,7 @@ I love building apps, learning new tools, and solving real-world problems with c
 ---
 
 ### 🌱 Currently Learning
-- Full-stack development using **Express.js and Mongodb**
+- Full-stack development using **Node.js, Express.js and Mongodb**
 - Advanced JavaScript Patterns
 - UI/UX design with **Figma**
 
