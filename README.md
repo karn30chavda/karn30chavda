@@ -36,6 +36,7 @@ I love building apps, learning new tools, and solving real-world problems with c
 | 5 | **Portfolio Website** | React, Vite | My personal portfolio site to showcase my journey and work. |
 | 6 | **ReactFun website** | React, Vite, Tailwindcss, React-router | Multiple React mini project in the form of components. |
 | 7 | **Blog App** | React, Appwrite | A modern blog platform in development with user auth and CMS features. |
+| 8 | **Server-Share** | React, Node.Js, Express .Js| A simple solution for sharing the files via server in multiple devices . |
 
 ---
 
