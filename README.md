@@ -1,70 +1,90 @@
-<h1 align="center">Hi 👋, I'm Karan Chavda</h1>
-<h3 align="center">🚀 A passionate Web Developer & Frontend Enthusiast from India</h3>
+<h1 align="center">Hey 👋 I'm Karan Chavda</h1>
+<h3 align="center">Software Developer | Frontend & Full-Stack Enthusiast</h3>
+
+<p align="center">
+  Building clean, scalable & user-focused web applications 🚀
+</p>
 
 ---
 
-### 🧠 About Me
-I’m a self-motivated learner, currently focused on full-stack web development.  
-While I’m at the beginning of my professional journey, I’ve built real-world projects that showcase both frontend and backend integration using tools like **Firebase**, **Supabase**, and **Appwrite**.
+## 👨‍💻 About Me
 
-I love building apps, learning new tools, and solving real-world problems with code.
+I’m a self-taught **Software Developer** with a Bachelor’s degree in Computer Science and hands-on experience working at **Revosolve**. I enjoy building modern web applications, solving real product problems, and continuously improving my development skills.
 
----
-## 🛠️ Skills
+My core strength lies in **frontend development**, but I also work comfortably across the backend and APIs, which helps me understand complete product workflows — from UI to database.
 
-### 🌐 Web Tech
-- HTML5, CSS3, JavaScript (ES6+), C/C++
-
-### ⚙️ Frontend Frameworks
-- React.js, Redux, Bootstrap, Tailwind CSS, Flexbox, Grid
-
-### 🔙 Backend Services
-- Firebase, Supabase, Appwrite, REST APIs, Cloudinary
-  
-### 💾 Tools
-- Git, GitHub, Netlify, Vercel, VS Code, Chrome DevTools
----
-
-### 💼 My Projects (In Order of My Dev Journey)
-
-| # | Project Name | Tech Used | Description |
-|--|--------------|-----------|-------------|
-| 1 | **Designated Driver Service (DDS)** | HTML, CSS, JS | My final year college project - a platform to connect people with responsible drivers. |
-| 2 | **PWA Calculator** | JS, PWA APIs | A mobile-friendly calculator with offline support. |
-| 3 | **Tic Tac Win Game** | HTML, CSS, JS | A simple and fun tic-tac-toe game with clean UI. |
-| 4 | **NotesFlow** | HTML, CSS, JS, Firebase | A sticky notes app with features like PIN lock, theme switch, profile pic, and more. |
-| 5 | **Portfolio Website** | React, Vite | My personal portfolio site to showcase my journey and work. |
-| 6 | **ReactFun website** | React, Vite, Tailwindcss, React-router | Multiple React mini project in the form of components. |
-| 7 | **Blog App** | React, Appwrite | A modern blog platform in development with user auth and CMS features. |
-| 8 | **Server-Share** | React, Node.Js, Express .Js| A simple solution for sharing the files via server in multiple devices . |
+Currently, I’m focused on writing **clean, maintainable code**, improving application architecture, and learning more about scalable systems.
 
 ---
 
-### 🌱 Currently Learning
-- Full-stack development using **Node.js, Express.js and Mongodb**
-- Advanced JavaScript Patterns
-- UI/UX design with **Figma**
+## 🧩 What I Work With
+
+### 🌐 Core
+- HTML5, CSS3, JavaScript (ES6+)
+- C / C++
+
+### ⚛️ Frontend
+- React.js, Next.js
+- Redux
+- Tailwind CSS, Bootstrap
+- Responsive UI, Performance Optimization
+
+### 🔙 Backend
+- Node.js, Express.js
+- MongoDB
+- Firebase, Supabase, Appwrite
+- Python, FastAPI
+- REST APIs
+
+### 🐳 DevOps & Tools
+- Docker, Docker Compose
+- Git & GitHub
+- Netlify, Vercel
+- VS Code, Chrome DevTools
+- Cloudinary
 
 ---
 
-### 🎯 Goals for 2025
-- Build and deploy 3-4 full-stack apps
-- Get an internship or junior dev role
-- Contribute to open source
-- Exporing to the Machine Language
+## 🛠️ Projects (Growth Journey)
+
+| # | Project | Stack | Focus |
+|--|--------|------|------|
+| 1 | Designated Driver Service (DDS) | HTML, CSS, JS | Final-year project, real-world problem solving |
+| 2 | PWA Calculator | JavaScript, PWA APIs | Offline-first & installable web app |
+| 3 | Tic Tac Win Game | HTML, CSS, JS | UI logic & game flow |
+| 4 | NotesFlow | JS, Firebase | Auth, CRUD, UI features |
+| 5 | Portfolio Website | React, Vite | Personal branding |
+| 6 | ReactFun | React, Tailwind | Reusable mini-components |
+| 7 | Blog Platform | React, Appwrite | Auth, editor, CMS-style flow |
+| 8 | Server-Share | React, Node, Express | Local network file sharing |
+| 9 | Group Expense Tracker | React, Node, MongoDB | Group & trip expense management |
+| 10 | FastAPI Services | Python, FastAPI, Docker | Clean, containerized APIs |
 
 ---
 
-### 📬 Connect With Me
-- 📧 Email: karanchavda543@gmail.com
-- 🔗 Portfolio: [karan-portfolio-website.netlify.app](https://karan-portfolio-website.netlify.app)
-- 💼 LinkedIn: [@karanchavda300902](linkedin.com/in/karanchavda300902)
-- Open to internships, freelancing, or full-time roles. Let’s build something awesome together!
----
-
-### 💡 Fun Quote
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## 🌱 Currently Exploring
+- Advanced Full-Stack Architecture
+- Dockerized Applications
+- Better API Design
+- System Design Fundamentals
 
 ---
 
-*Thanks for stopping by! Feel free to explore my work and connect 🚀*
+## 🎯 Goals
+- Build production-ready full-stack applications
+- Strengthen backend & DevOps skills
+- Contribute to open-source
+- Grow as a well-rounded software engineer
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **karanchavda543@gmail.com**
+- 🌐 Portfolio: [karan-portfolio-website.netlify.app](https://karan-portfolio-website.netlify.app)
+- 💼 LinkedIn: [linkedin.com/in/karanchavda300902](https://linkedin.com/in/karanchavda300902)
+
+---
+
+> 💡 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
+⭐ Thanks for visiting! Feel free to explore my repositories and connect.
